@@ -1,7 +1,7 @@
 # Wang Zhaopeng's First CS193 Homework
 
 ## My favourite things about CS193
--resume
+- resume
 1. they are needed :)
 - TAs!
 - Classmates!
